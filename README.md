@@ -1,2 +1,2 @@
 # KDB-Chainlink
-Integrating kdb+ to Chainlink  
+Integrating kdb+ to Chainlink Oracle
